@@ -1,0 +1,16 @@
+[book]
+authors = ["Ryan Liu"]
+multilingual = false
+src = "src"
+title = "阿债的技术存档"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+theme = "default"
+# additional-css = ["custom.css"]
+
+[output.html.search]
+limit-results = 15
