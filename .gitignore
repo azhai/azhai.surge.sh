@@ -1,1 +1,6 @@
 book
+.DS_Store
+*.bak
+*.log
+*.sublime-project
+*.sublime-workspace

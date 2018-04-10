@@ -1,11 +1,9 @@
 ---
 tags = ["nginx", "auth"]
----
 date = "2013-04-24"
 title = "Nginx设置简单HTTP认证"
 slug = "nginx-http-base-auth"
 weight = 330424
----
 ---
 
 ## 问题描述
